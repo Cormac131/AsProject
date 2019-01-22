@@ -198,3 +198,26 @@ D:\Cormac\Documents\Memory Pen\Other Stuff\SSD\AS CourseWork CMcGrath\NewGame\ob
 D:\Cormac\Documents\Memory Pen\Other Stuff\SSD\AS CourseWork CMcGrath\NewGame\obj\Debug\NewGame.csproj.CoreCompileInputs.cache
 D:\Cormac\Documents\Memory Pen\Other Stuff\SSD\AS CourseWork CMcGrath\NewGame\obj\Debug\NewGame.exe
 D:\Cormac\Documents\Memory Pen\Other Stuff\SSD\AS CourseWork CMcGrath\NewGame\obj\Debug\NewGame.pdb
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\bin\Debug\PlayerCount.txt
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\bin\Debug\NewGame.exe.config
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\bin\Debug\NewGame.exe
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\bin\Debug\NewGame.pdb
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.csprojAssemblyReference.cache
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.FrmFinish.resources
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.FrmHelp.resources
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.FrmHighScore.resources
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.FrmProfile.resources
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.FrmQ1.resources
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.FrmQ2.resources
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.FrmQ3.resources
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.FrmQ4.resources
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.FrmQ5.resources
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.FrmQ6.resources
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.FrmRegister.resources
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.FrmSplashScreen.resources
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.FrmLauncher.resources
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.Properties.Resources.resources
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.csproj.GenerateResource.cache
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.csproj.CoreCompileInputs.cache
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.exe
+C:\Users\c.mcgrath.STATSports\Documents\GitHub\AsProject\obj\Debug\NewGame.pdb

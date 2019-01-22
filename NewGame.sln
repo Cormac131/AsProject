@@ -1,10 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewGame", "NewGame.csproj", "{329E8334-BF02-41C7-A289-EB0678AF58DB}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329E8334-BF02-41C7-A289-EB0678AF58DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329E8334-BF02-41C7-A289-EB0678AF58DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329E8334-BF02-41C7-A289-EB0678AF58DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329E8334-BF02-41C7-A289-EB0678AF58DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {893FA4C6-6BA3-4A8B-B1E3-E4E7ECCA57DE}
 	EndGlobalSection
 EndGlobal
